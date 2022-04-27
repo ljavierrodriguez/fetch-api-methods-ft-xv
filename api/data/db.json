@@ -1,0 +1,114 @@
+{
+    "users": [
+        {
+            "name": "Luis",
+            "lastname": "Rodriguez",
+            "email": "lrodriguez@4geeks.co",
+            "password": "123456",
+            "address": "Av Vitacura",
+            "city": "Santiago",
+            "state": "CHL",
+            "zip": "1234567890",
+            "active": true,
+            "id": 1,
+            "profile": {
+                "id": "",
+                "bio": "",
+                "twitter": "",
+                "instagram": "",
+                "facebook": "",
+                "users_id": 1
+            }
+        },
+        {
+            "name": "Santiago",
+            "lastname": "Mata",
+            "email": "s.mata@4geeks.co",
+            "password": "123456",
+            "address": "Av Vitacura",
+            "city": "Santiago",
+            "state": "CHL",
+            "zip": "1234567890",
+            "active": true,
+            "id": 2
+        },
+        {
+            "name": "Pedro",
+            "lastname": "Perez",
+            "email": "pedro.perez@gmail.com",
+            "password": "123456",
+            "address": "Valparaiso",
+            "city": "Valparaiso",
+            "state": "CHL",
+            "zip": "1234567689",
+            "active": false,
+            "id": 3
+        },
+        {
+            "name": "Anna Paola",
+            "lastname": "Smith",
+            "email": "anna.smith@gmail.com",
+            "password": "123456",
+            "address": "Concepcion",
+            "city": "Concepcion",
+            "state": "CHL",
+            "zip": "1234567890",
+            "active": false,
+            "id": 4
+        },
+        {
+            "name": "Maria Laura",
+            "lastname": "Herrera",
+            "email": "maria.herrera@gmail.com",
+            "password": "123456",
+            "address": "Av Chiloe",
+            "city": "Santiago",
+            "state": "CHL",
+            "zip": "1234567890",
+            "active": true,
+            "id": 5
+        }
+    ],
+    "profile": [
+        {
+            "id": "",
+            "bio": "",
+            "twitter": "",
+            "instagram": "",
+            "facebook": "",
+            "users_id": 1
+        },
+        {
+            "id": "",
+            "bio": "",
+            "twitter": "",
+            "instagram": "",
+            "facebook": "",
+            "users_id": 2
+        },
+        {
+            "id": "",
+            "bio": "",
+            "twitter": "",
+            "instagram": "",
+            "facebook": "",
+            "users_id": 3
+        },
+        {
+            "id": "",
+            "bio": "",
+            "twitter": "",
+            "instagram": "",
+            "facebook": "",
+            "users_id": 4
+        },
+        {
+            "id": "",
+            "bio": "",
+            "twitter": "",
+            "instagram": "",
+            "facebook": "",
+            "users_id": 5
+        }
+    ]
+}
